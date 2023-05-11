@@ -75,6 +75,7 @@ Size rank is negatively correlated.
 <img width="315" alt="Screen Shot 2023-05-11 at 3 43 07 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/59b030d9-9f1c-41b9-b930-1a861b226ad7">
 
 Result:
+
 <img width="262" alt="Screen Shot 2023-05-11 at 3 43 28 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/7365ff9d-ca7a-4d51-bdd9-2ced352d08f8">
 
 
