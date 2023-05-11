@@ -45,6 +45,7 @@ Size rank is negatively correlated.
 - From 2006 to 2012  Average price gradually decreased.
 - From 2012 Average price increased and peaked at 2019.
 - Due to Covid-19, avg prices again decreased.
+
 # Prediction Modelling
 - Below selected models has been used for machine learning modelling for k-best features.
 - Decision tree
