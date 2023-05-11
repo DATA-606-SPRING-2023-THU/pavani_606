@@ -51,6 +51,12 @@ Size rank is negatively correlated.
 - Decision tree
 - Random forest regressor
 - Linear regression
+# Linear Regression
+- Linear regression is a type of supervised learning algorithm used in machine learning that helps to predict a continuous output variable based on one or more input variables. The goal of linear regression is to find the best linear relationship between the input and output variables. 
+<img width="310" alt="Screen Shot 2023-05-11 at 3 18 27 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/5729ca00-b093-4fc1-b1b7-f9becb9d1c1c">
+# Result:
+<img width="310" alt="Screen Shot 2023-05-11 at 3 18 58 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/f3cf4be1-d955-4fc3-b5c5-d5630ce93790">
+
 
 
 
