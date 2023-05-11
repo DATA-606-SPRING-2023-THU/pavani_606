@@ -14,6 +14,13 @@
 - To apply data preprocessing and preparation techniques in order to obtain clean data.
 - To build machine learning models able to predict house price based on house features
 - To analyze and compare models performance in order to choose the best model
+# Data Collection
+- I have took the 5 datasets for 1 bedroom, 2 Bedroom, 3 bedroom, 4 bedroom, 5 bedroom from kaggle and merged into one Dataset.
+- I am using a dataset that has historical date of houses sold in different counties, states in USA across multiple years starting from 1995 to 2020.
+- The dataset was obtained from Kaggle.com via the source.
+- The output feature is the house price in dollars.
+- 
+
 
 
 
