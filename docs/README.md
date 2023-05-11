@@ -19,7 +19,41 @@
 - I am using a dataset that has historical date of houses sold in different counties, states in USA across multiple years starting from 1995 to 2020.
 - The dataset was obtained from Kaggle.com via the source.
 - The output feature is the house price in dollars.
-- 
+<img width="865" alt="Screen Shot 2023-05-11 at 1 41 28 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/42bb3042-d024-4c29-b960-7c22030910bf">
+# Data Cleaning
+- Merged multiple datasets.
+- Calculated monthly house price into yearly avg price.
+- Removed redundant columns.
+- Removed rows with null values.
+# Exploratory Data Analysis
+- But before I start modeling, I need to understand the data and how it is represented in the dataset.
+# top five counties with highest average price
+- Pitkin county, Colorado, has highest avg house prices since 1996.
+- San Mateo county, California, has lowest avg house prices since 1996
+# top five counties with highest growth rate
+- Gallatin County, Montana, has highest growth rate. House prices in Gallatin County has increased 350 times since 1996.
+Heard, Quitman, Hot Spring Counties have similar growth rate.
+# Distribution of no.of beds
+- Highest number of houses in USA has 3 bedrooms.
+- Houses with single bedroom are low in count.
+# Correlation with target
+- Beds and avg price are highly and positively correlated that means higher the no.of beds higher the price of the house
+Size rank is negatively correlated. 
+- Lowest size rank has highest price
+# Average housing prices 
+- From 2006 to 2012  Average price gradually decreased.
+- From 2012 Average price increased and peaked at 2019.
+- Due to Covid-19, avg prices again decreased.
+# Prediction Modelling
+- Below selected models has been used for machine learning modelling for k-best features.
+- Decision tree
+- Random forest regressor
+- Linear regression
+
+
+
+
+
 
 
 
