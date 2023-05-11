@@ -57,6 +57,7 @@ Size rank is negatively correlated.
 <img width="310" alt="Screen Shot 2023-05-11 at 3 18 27 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/5729ca00-b093-4fc1-b1b7-f9becb9d1c1c">
 
 Result:
+
 <img width="310" alt="Screen Shot 2023-05-11 at 3 18 58 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/f3cf4be1-d955-4fc3-b5c5-d5630ce93790">
 
 # RandomForest Regressor
@@ -66,6 +67,7 @@ Result:
 <img width="315" alt="Screen Shot 2023-05-11 at 3 37 54 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/05f8fbdb-2e70-47d8-a616-25ce196c616e">
 
 Result:
+
 <img width="315" alt="Screen Shot 2023-05-11 at 3 38 10 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/d494f29c-ff0b-43b1-9ced-ad053c01a257">
 
 # DecisionTree
