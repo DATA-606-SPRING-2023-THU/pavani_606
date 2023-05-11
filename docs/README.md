@@ -78,6 +78,12 @@ Result:
 
 <img width="262" alt="Screen Shot 2023-05-11 at 3 43 28 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/7365ff9d-ca7a-4d51-bdd9-2ced352d08f8">
 
+# Conclusion
+- I have trained 3 models such as linear_regression, decision_tree, random_forest,and we can see that the best performing model is decision_tree.
+- The mean absolute percentage error for the model is 0.23 and 0.31 for train and test respectively whereas the r2 scores are 0.73 and 0.56 respectively for train and test.
+- I have used monotone to make sure the features which is correlated to the input and has an impact should affect during the model building.
+- Linear models such as RandomForest and LinearRegression are also performing well, but not able to capture the pattern and generating less r2 score. Also, the percentage error is very high as compared to other models.
+
 
 
 
