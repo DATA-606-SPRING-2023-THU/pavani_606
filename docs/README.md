@@ -51,12 +51,31 @@ Size rank is negatively correlated.
 - Decision tree
 - Random forest regressor
 - Linear regression
+
 # Linear Regression
 - Linear regression is a type of supervised learning algorithm used in machine learning that helps to predict a continuous output variable based on one or more input variables. The goal of linear regression is to find the best linear relationship between the input and output variables. 
 <img width="310" alt="Screen Shot 2023-05-11 at 3 18 27 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/5729ca00-b093-4fc1-b1b7-f9becb9d1c1c">
 
 # Result:
 <img width="310" alt="Screen Shot 2023-05-11 at 3 18 58 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/f3cf4be1-d955-4fc3-b5c5-d5630ce93790">
+
+# RandomForest Regressor
+- Random forest regressor is a supervised learning algorithm used in machine learning for regression problems. It is an extension of the decision tree algorithm that uses an ensemble of decision trees to improve the accuracy and reduce the overfitting problem.
+- The trees in random forests run in parallel, which means there is no interaction between these trees while they are being built.
+
+<img width="315" alt="Screen Shot 2023-05-11 at 3 37 54 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/05f8fbdb-2e70-47d8-a616-25ce196c616e">
+
+# Result
+<img width="315" alt="Screen Shot 2023-05-11 at 3 38 10 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/d494f29c-ff0b-43b1-9ced-ad053c01a257">
+
+# DecisionTree
+- Decision tree regressor is a supervised learning algorithm used in machine learning for regression problems.
+- The decision tree is built by recursively partitioning the input space based on the values of the input features. The algorithm selects the feature and threshold that results in the greatest reduction in the mean squared error (MSE) of the output variable. 
+- This process continues until a stopping criterion is met, such as reaching a maximum depth, or a minimum number of samples in a leaf node.
+<img width="315" alt="Screen Shot 2023-05-11 at 3 43 07 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/59b030d9-9f1c-41b9-b930-1a861b226ad7">
+
+Result:
+<img width="262" alt="Screen Shot 2023-05-11 at 3 43 28 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/7365ff9d-ca7a-4d51-bdd9-2ced352d08f8">
 
 
 
