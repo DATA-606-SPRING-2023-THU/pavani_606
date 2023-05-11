@@ -20,6 +20,7 @@
 - The dataset was obtained from Kaggle.com via the source.
 - The output feature is the house price in dollars.
 <img width="865" alt="Screen Shot 2023-05-11 at 1 41 28 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/42bb3042-d024-4c29-b960-7c22030910bf">
+
 # Data Cleaning
 - Merged multiple datasets.
 - Calculated monthly house price into yearly avg price.
