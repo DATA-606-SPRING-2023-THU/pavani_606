@@ -104,7 +104,23 @@ Result:
 - The mean absolute percentage error for the model is 0.23 and 0.31 for train and test respectively whereas the r2 scores are 0.73 and 0.56 respectively for train and test.
 - I have used monotone to make sure the features which is correlated to the input and has an impact should affect during the model building.
 - Linear models such as RandomForest and LinearRegression are also performing well, but not able to capture the pattern and generating less r2 score. Also, the percentage error is very high as compared to other models.
+# Reference
 
+- Bedrooms dataset
+
+https://www.kaggle.com/datasets/paultimothymooney/zillow-house-price-data?resource=download&select=State_Zhvi_1bedroom.csv
+
+- GDP dataset:
+https://www.thebalancemoney.com/us-gdp-by-year-3305543
+
+- GNI dataset:
+https://www.macrotrends.net/countries/USA/united-states/gni-gross-national-income
+
+- UnEmployement dataset:
+https://data.bls.gov/timeseries/LNS14000000
+
+- population dataset:
+https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
 
 
 
