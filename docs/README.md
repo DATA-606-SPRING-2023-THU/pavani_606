@@ -29,19 +29,29 @@
 # Exploratory Data Analysis
 - But before I start modeling, I need to understand the data and how it is represented in the dataset.
 # top five counties with highest average price
+<img width="995" alt="Screen Shot 2023-05-11 at 8 15 42 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/20822774-59d8-42d5-ad33-e29036e80bd0">
+
 - Pitkin county, Colorado, has highest avg house prices since 1996.
 - San Mateo county, California, has lowest avg house prices since 1996
 # top five counties with highest growth rate
+<img width="995" alt="Screen Shot 2023-05-11 at 8 18 00 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/27587820-4371-4638-91e1-b6518163a3b3">
+
 - Gallatin County, Montana, has highest growth rate. House prices in Gallatin County has increased 350 times since 1996.
 Heard, Quitman, Hot Spring Counties have similar growth rate.
 # Distribution of no.of beds
+<img width="995" alt="Screen Shot 2023-05-11 at 8 18 47 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/cb5b38af-9be3-415f-bed4-baa32a956741">
+
 - Highest number of houses in USA has 3 bedrooms.
 - Houses with single bedroom are low in count.
 # Correlation with target
+<img width="1066" alt="Screen Shot 2023-05-11 at 8 20 08 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/bdc81452-71ef-40f6-942f-88c95923752d">
+
 - Beds and avg price are highly and positively correlated that means higher the no.of beds higher the price of the house
 Size rank is negatively correlated. 
 - Lowest size rank has highest price
 # Average housing prices 
+<img width="406" alt="Screen Shot 2023-05-11 at 8 21 29 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/cb575270-28b8-4112-9d46-895149d93d92">
+
 - From 2006 to 2012  Average price gradually decreased.
 - From 2012 Average price increased and peaked at 2019.
 - Due to Covid-19, avg prices again decreased.
