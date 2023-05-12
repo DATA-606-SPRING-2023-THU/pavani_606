@@ -22,17 +22,17 @@ Columns: 11
 # What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you expect to analyze?
 
 Average price is my target variable.
-I will be analyzing the following units
-Attributes: 
-RegionName       
-RegionType       
-StateName        
-State            
-Metro            
-CountyName       
-Beds             
-Year             
-Average Price 
+I will be analyzing the following units. 
+ #### Attributes: 
+- RegionName       
+- RegionType       
+- StateName        
+- State            
+- Metro            
+- CountyName       
+- Beds             
+- Year             
+- Average Price 
 
 # What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?
 I would like to use regression models like Linear regressor, Decision tree Regressor and SVM.
