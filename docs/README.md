@@ -63,7 +63,7 @@ Size rank is negatively correlated.
 - From 2006 to 2012  Average price gradually decreased because there's a decrease in GDP,GNI and increase in unemployment. 
 - From 2012 Average price increased and peaked at 2019.
 - Due to Covid-19, avg prices again decreased.
-Since GDP, GNI and unemployement affects house prices, I have included GDP, GNI, population and unemplyement rates for my analysis. 
+#### Since GDP, GNI and unemployement affects house prices, I have included GDP, GNI, population and unemplyement rates for my analysis. 
 
 # Prediction Modelling
 - Below selected models has been used for machine learning modelling for k-best features.
