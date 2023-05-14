@@ -26,6 +26,13 @@
 - docs : directory for project draft documentations.
 - src : directory for project code base.
 
+### Links:
+#### Presentation links:
+- [Youtube](https://youtu.be/vwrJeSaHYuQ)
+- [Powerpoint presentation](https://github.com/DATA-606-SPRING-2023-THU/pavani_606/blob/main/docs/Presentation%202.pptx)
+
+
+
 
 
 
