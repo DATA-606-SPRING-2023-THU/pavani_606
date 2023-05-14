@@ -56,6 +56,28 @@ This dataset contains historical data of unEmployment rate of each state in US f
 ##### Google drive links:
 - https://docs.google.com/spreadsheets/d/1NQgAxQJ95V9o4pDZNDSPq7ffi3c5PmeU/edit?usp=share_link&ouid=109461189033399318832&rtpof=true&sd=true
 
+#### processed_Data.csv
+This is the dataset after merging all the above datasets, processing and cleaning. This dataset is loaded in to my ML modules.
+##### Dataset columns:
+- RegionID
+- SizeRank
+- RegionName
+- RegionType
+- State
+- Metro
+- CountyName
+- Beds
+- Year
+- Average Price
+- Size
+- GDP
+- GNI
+- Population
+- Unemployement
+
+##### Google drive links:
+- https://drive.google.com/file/d/1IRyN-FQ13cBaqLZUqquAMS1cRtn11K1i/view?usp=share_link
+
 ### Data Reference:
 Bedrooms dataset: https://www.kaggle.com/datasets/paultimothymooney/zillow-house-price-data?resource=download&select=State_Zhvi_1bedroom.csv
 
