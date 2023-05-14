@@ -57,5 +57,12 @@ This dataset contains historical data of unEmployment rate of each state in US f
 - https://docs.google.com/spreadsheets/d/1NQgAxQJ95V9o4pDZNDSPq7ffi3c5PmeU/edit?usp=share_link&ouid=109461189033399318832&rtpof=true&sd=true
 
 ### Data Reference:
-https://www.kaggle.com/datasets/paultimothymooney/zillow-house-price-data?resource=download&select=State_Zhvi_1bedroom.csv
+Bedrooms dataset: https://www.kaggle.com/datasets/paultimothymooney/zillow-house-price-data?resource=download&select=State_Zhvi_1bedroom.csv
 
+GDP dataset: https://www.thebalancemoney.com/us-gdp-by-year-3305543
+
+GNI dataset: https://www.macrotrends.net/countries/USA/united-states/gni-gross-national-income
+
+UnEmployement dataset: https://data.bls.gov/timeseries/LNS14000000
+
+population dataset: https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
