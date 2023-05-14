@@ -123,9 +123,9 @@ https://data.bls.gov/timeseries/LNS14000000
 https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
 
 ### Links:
-#### Presentation Youtube link:
-- https://youtu.be/vwrJeSaHYuQ
-- 
+#### Presentation links:
+- [Youtube](https://youtu.be/vwrJeSaHYuQ)
+- [Powerpoint presentation](https://github.com/DATA-606-SPRING-2023-THU/pavani_606/blob/main/docs/Presentation%202.pptx)
 
 
 
