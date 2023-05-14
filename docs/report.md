@@ -30,27 +30,27 @@
 - But before I start modeling, I need to understand the data and how it is represented in the dataset.
 # top five counties with highest average price
 
-<img width="995" alt="Screen Shot 2023-05-11 at 8 15 42 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/20822774-59d8-42d5-ad33-e29036e80bd0">
+![image0](https://github.com/DATA-606-SPRING-2023-THU/pavani_606/blob/main/docs/Images/Top%20priced%20Houses%20in%20CountyName%2C%20State.png)
 
 
 - Pitkin county, Colorado, has highest avg house prices since 1996.
 - San Mateo county, California, has lowest avg house prices since 1996
 # top five counties with highest growth rate
 
-<img width="995" alt="Screen Shot 2023-05-11 at 8 18 00 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/27587820-4371-4638-91e1-b6518163a3b3">
+![image4](https://github.com/DATA-606-SPRING-2023-THU/pavani_606/blob/main/docs/Images/Top%205%20Counties%20with%20Highest%20Growth%20Rate%20in%20House%20Prices.png)
 
 
 - Gallatin County, Montana, has highest growth rate. House prices in Gallatin County has increased 350 times since 1996.
 Heard, Quitman, Hot Spring Counties have similar growth rate.
 # Distribution of no.of beds
 
-<img width="995" alt="Screen Shot 2023-05-11 at 8 18 47 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/cb5b38af-9be3-415f-bed4-baa32a956741">
+![image1](https://github.com/DATA-606-SPRING-2023-THU/pavani_606/blob/main/docs/Images/Distribution%20of%20Number%20of%20Beds.png)
 
 - Highest number of houses in USA has 3 bedrooms.
 - Houses with single bedroom are low in count.
 
 # Correlation with target
-<img width="1066" alt="Screen Shot 2023-05-11 at 8 20 08 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/bdc81452-71ef-40f6-942f-88c95923752d">
+![image2](https://github.com/DATA-606-SPRING-2023-THU/pavani_606/blob/main/docs/Images/Correlation%20with%20Target.png)
 
 - Beds and avg price are highly and positively correlated that means higher the no.of beds higher the price of the house
 Size rank is negatively correlated. 
@@ -58,7 +58,7 @@ Size rank is negatively correlated.
 
 # Average housing prices 
 
-<img width="406" alt="Screen Shot 2023-05-11 at 8 21 29 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/cb575270-28b8-4112-9d46-895149d93d92">
+![image3](https://github.com/DATA-606-SPRING-2023-THU/pavani_606/blob/main/docs/Images/AveragePrice_TimeChart.png)
 
 - From 2006 to 2012  Average price gradually decreased because there's a decrease in GDP,GNI and increase in unemployment. 
 - From 2012 Average price increased and peaked at 2019.
@@ -73,31 +73,35 @@ Size rank is negatively correlated.
 
 # Linear Regression
 - Linear regression is a type of supervised learning algorithm used in machine learning that helps to predict a continuous output variable based on one or more input variables. The goal of linear regression is to find the best linear relationship between the input and output variables. 
-<img width="310" alt="Screen Shot 2023-05-11 at 3 18 27 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/5729ca00-b093-4fc1-b1b7-f9becb9d1c1c">
+
+![image5](https://github.com/DATA-606-SPRING-2023-THU/pavani_606/blob/main/docs/Images/LinearRegression.png)
 
 Result:
 
-<img width="310" alt="Screen Shot 2023-05-11 at 3 18 58 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/f3cf4be1-d955-4fc3-b5c5-d5630ce93790">
+![image6](https://github.com/DATA-606-SPRING-2023-THU/pavani_606/blob/main/docs/Images/LinearRegression_Scores.png)
+
 
 # RandomForest Regressor
 - Random forest regressor is a supervised learning algorithm used in machine learning for regression problems. It is an extension of the decision tree algorithm that uses an ensemble of decision trees to improve the accuracy and reduce the overfitting problem.
 - The trees in random forests run in parallel, which means there is no interaction between these trees while they are being built.
 
-<img width="315" alt="Screen Shot 2023-05-11 at 3 37 54 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/05f8fbdb-2e70-47d8-a616-25ce196c616e">
+![image7](https://github.com/DATA-606-SPRING-2023-THU/pavani_606/blob/main/docs/Images/RandomForestRegressor.png)
+
 
 Result:
 
-<img width="315" alt="Screen Shot 2023-05-11 at 3 38 10 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/d494f29c-ff0b-43b1-9ced-ad053c01a257">
+![image8](https://github.com/DATA-606-SPRING-2023-THU/pavani_606/blob/main/docs/Images/RandomForest_scores.png)
 
 # DecisionTree
 - Decision tree regressor is a supervised learning algorithm used in machine learning for regression problems.
 - The decision tree is built by recursively partitioning the input space based on the values of the input features. The algorithm selects the feature and threshold that results in the greatest reduction in the mean squared error (MSE) of the output variable. 
 - This process continues until a stopping criterion is met, such as reaching a maximum depth, or a minimum number of samples in a leaf node.
-<img width="315" alt="Screen Shot 2023-05-11 at 3 43 07 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/59b030d9-9f1c-41b9-b930-1a861b226ad7">
+
+![image9](https://github.com/DATA-606-SPRING-2023-THU/pavani_606/blob/main/docs/Images/DecisionTreeREgressor.png)
 
 Result:
 
-<img width="262" alt="Screen Shot 2023-05-11 at 3 43 28 PM" src="https://github.com/DATA-606-SPRING-2023-THU/pavani_606/assets/99057026/7365ff9d-ca7a-4d51-bdd9-2ced352d08f8">
+![image10](https://github.com/DATA-606-SPRING-2023-THU/pavani_606/blob/main/docs/Images/DecisionTree_Scores.png)
 
 # Conclusion
 - I have trained 3 models such as linear_regression, decision_tree, random_forest,and we can see that the best performing model is decision_tree.
